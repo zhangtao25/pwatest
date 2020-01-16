@@ -1,0 +1,20 @@
+{
+    "name": "一个PWA示例",
+    "short_name": "PWA示例",
+    "description": "The app that helps you understand PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c",
+    "icons": [
+      {
+        "src": "/test.jpg",
+        "sizes": "48x48",
+        "type": "image/png"
+      },
+      {
+        "src": "/youhun.ico",
+        "sizes": "48x48"
+      }
+    ]
+}
